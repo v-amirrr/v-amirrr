@@ -1,4 +1,4 @@
-# Hi, I'm Amir! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi, I'm Amir!
 - I'm a Front-End developer.
 
 - I'm currently working on some work samples for my resume.
