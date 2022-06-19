@@ -19,6 +19,4 @@
 
 ## How can you reach me?
 <a href="https://amirrr.valizadeh@gmail.com">Email</a> | 
-<a href="www.linkedin.com/in/amirvalizadeh">LinkedIn</a> | 
-<a href="https://t.me/v_amirrr">Telegram</a> | 
-<a href="https://wa.me/+989330938960">WhatsApp</a>
+<a href="www.linkedin.com/in/amirvalizadeh">LinkedIn</a>
