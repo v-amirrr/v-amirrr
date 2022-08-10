@@ -5,7 +5,7 @@
 
 - Also I'm working on some work samples for my resume.
 
-- YOu can find more information about me and my work at my <a href="https://amirvalizadeh.netlify.app/" target="_blank">website</a>.
+- You can find more information about me and my work at my <a href="https://amirvalizadeh.netlify.app/" target="_blank">website</a>.
 
 <p></p>&nbsp;
 
@@ -21,6 +21,7 @@
 </p>
 <p></p>&nbsp;
 
-## CONTacT
+## CONTACT
 <a href="https://amirrr.valizadeh@gmail.com">Email</a> | 
-<a href="www.linkedin.com/in/amirvalizadeh">LinkedIn</a>
+<a href="https:/linkedin.com/in/amirvalizadeh">LinkedIn</a> | 
+<a href="https://t.me/v_amirrr">Telegram</a>
