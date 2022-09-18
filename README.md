@@ -1,10 +1,6 @@
 # Hi, I'm Amir!
 - I'm a Front-End developer.
 
-- I'm currently looking for a Front-End developer position.
-
-- Also I'm working on some work samples for my resume.
-
 - You can find more information about me and my work at my <a href="https://amirvalizadeh.netlify.app/" target="_blank">website</a>.
 
 <p></p>&nbsp;
