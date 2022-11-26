@@ -1,23 +1,26 @@
-# Hi, I'm Amir!
-- I'm a Front-End developer.
-
-- You can find more information about me and my work at my <a href="https://amirvalizadeh.netlify.app/" target="_blank">website</a>.
-
-<p></p>&nbsp;
-
-## MY SKILLS
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-</p>
-<p></p>&nbsp;
-
-## CONTACT
-<a href="https://amirrr.valizadeh@gmail.com">Email</a> | 
-<a href="https:/linkedin.com/in/amirvalizadeh">LinkedIn</a> | 
-<a href="https://t.me/v_amirrr">Telegram</a>
+<div style="width:100%;height:100%;display:flex;justify-content:center;align-items:center;flex-direction:column;">
+  <h1>Hi, How's it going?</h1>
+  <h4>My name is Amir. I'm a Front-End Developer</h4>
+  <h6>For more information about me you can check out my <a href="https://amirvalizadeh.netlify.app/" target="_blank">portfolio</a> or my <a href="https://drive.google.com/file/d/1wZJ0K-Fez_pX9yQO2U_INKqFZbfSclMm/view?usp=sharing" target="_blank">resume</a>.</h6>
+  <br>
+  <hr>
+  <br>
+  <h2>Technologies that I work with:</h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />
+  <br>
+  <br>
+  <br>
+  <hr>
+  <br>
+  <h2>Ways to reach out to me:</h2>
+  <h6>Email: <a href="mailto:amirrr.valiadeh@gmail.com" target="_blank">amirrr.valiadeh@gmail.com</a></h6>
+  <h6>Telegram: <a href="https://t.me/v_amirrr" target="_blank">v_amirrr</a></h6>
+  <h6>LinkdIn: <a href="https://linkedin.com/in/amirvalizadeh" target="_blank">Amir Valizadeh</a></h6>
+  <h6>Skype: <a href="https://join.skype.com/invite/MNV0cL3D8Jwf" target="_blank">live:.cid.98798c4805efe65am</a></h6>
+</div>
