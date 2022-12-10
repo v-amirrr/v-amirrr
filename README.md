@@ -19,7 +19,7 @@
   <br>
   <h2>Ways to reach out to me:</h2>
   <h6>Email: <a href="mailto:amirrr.valiadeh@gmail.com" target="_blank">amirrr.valiadeh@gmail.com</a></h6>
-  <h6>Telegram: <a href="https://t.me/v_amirrr" target="_blank">v_amirrr</a></h6>
-  <h6>LinkdIn: <a href="https://linkedin.com/in/amirvalizadeh" target="_blank">Amir Valizadeh</a></h6>
+  <h6>Telegram: <a href="https://t.me/v_amirrr" target="_blank">t.me/v_amirrr</a></h6>
+  <h6>LinkdIn: <a href="https://linkedin.com/in/amirvalizadeh" target="_blank">linkedin.com/in/amirvalizadeh</a></h6>
   <h6>Skype: <a href="https://join.skype.com/invite/MNV0cL3D8Jwf" target="_blank">live:.cid.98798c4805efe65am</a></h6>
 </div>
