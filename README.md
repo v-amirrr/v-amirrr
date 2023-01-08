@@ -1,7 +1,7 @@
 <div style="width:100%;height:100%;display:flex;justify-content:center;align-items:center;flex-direction:column;">
   <h1>Hi, How's it going?</h1>
   <h4>My name is Amir. I'm a Front-End Developer</h4>
-  <h6>For more information about me you can check out my <a href="https://amirvalizadeh.netlify.app/" target="_blank">portfolio</a> or my <a href="https://drive.google.com/file/d/1wZJ0K-Fez_pX9yQO2U_INKqFZbfSclMm/view?usp=sharing" target="_blank">resume</a>.</h6>
+  <h6>For more information about me you can check out my <a href="https://amirvalizadeh.vercel.app/" target="_blank">portfolio</a> or my <a href="https://drive.google.com/file/d/1wZJ0K-Fez_pX9yQO2U_INKqFZbfSclMm/view?usp=sharing" target="_blank">resume</a>.</h6>
   <br>
   <br>
   <br>
